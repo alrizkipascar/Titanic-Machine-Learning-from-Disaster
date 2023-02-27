@@ -1,0 +1,1 @@
+This repo contain my attempt using tensorflow and neural network to solve titanic dataset.
